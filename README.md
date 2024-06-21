@@ -1,13 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/SGWUF1eE)
-# Generic Real Estate Industry Project 31 README.md
-
-## Team Members: 
-1. `CLARISSA ARDELIA SO, 1275582`
-2. `EDWIN IGOR BROTOATMODJO, 1275566`
-3. `PATRICK POON PAN, 1170587`
-4. `VANESSA GRACIA TAN, 1297696`
-5. `WILLIAM CONLON, 1169893`
-
+# Generic Real Estate Industry Project README.md
 
 **Research Goal:** Our reserach goal is to determine and analyse the most liveable and affordable property suburb using the predicted growth, appropriate metrics and important features to provide insights and helps to investors in choosing best property to invest. 
 
