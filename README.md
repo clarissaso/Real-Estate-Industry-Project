@@ -1,4 +1,4 @@
-# Generic Real Estate Industry Project README.md
+# Real Estate Industry Project README.md
 
 **Research Goal:** Our reserach goal is to determine and analyse the most liveable and affordable property suburb using the predicted growth, appropriate metrics and important features to provide insights and helps to investors in choosing best property to invest. 
 
